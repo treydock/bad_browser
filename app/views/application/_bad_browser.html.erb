@@ -1,0 +1,6 @@
+<!-- Prompt users using IE older than <%= ie_supported %> to install Chrome Frame.
+     chromium.org/developers/how-tos/chrome-frame-getting-started -->
+<!--[if lt IE <%= ie_supported %> ]>
+  <script defer src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+  <script defer>badBrowser("<%= request.url %>");</script>
+<![endif]-->
