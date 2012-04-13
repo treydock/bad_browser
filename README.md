@@ -4,7 +4,7 @@
 
 This is the warning that will be displayed
 
-![](http://treydock.github.com/bad_browser/images/bad_browser_warning.png)
+![](http://treydock.github.com/bad_browser/images/bad_browser_warning2.png)
 
 ## Requirements
 
