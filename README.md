@@ -9,6 +9,7 @@ This is the warning that will be displayed
 ## Requirements
 
 * Rails >= 3.1
+* jquery-rails
 
 ## Installation
 
@@ -43,6 +44,11 @@ This will include the necessary javascript to warn users of Internet Explorer ol
 * add option to pass ```:none``` in place of an IE version to display the warning to all IE users
 
 ## Changelog
+
+### 0.0.2 - 2012/04/13
+
+* Correct dependencies
+* User a more correct method to extend Rails::Engine
 
 ### 0.0.1 - 2012/04/12
 
