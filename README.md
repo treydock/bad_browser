@@ -2,6 +2,10 @@
 
 'Unsupported browser' warning to IE users with [Chrome Frame](https://developers.google.com/chrome/chrome-frame/) install link.
 
+This is the warning that will be displayed
+
+![](http://treydock.github.com/bad_browser/images/bad_browser_warning.png)!
+
 ## Requirements
 
 * Rails >= 3.1
