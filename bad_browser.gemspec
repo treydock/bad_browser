@@ -14,9 +14,9 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = BadBrowser::VERSION
   
-  gem.add_dependency "rails", "~> 3.1.0"
+  gem.add_dependency "rails", ">= 3.1"
 #  gem.add_dependency "railties", "~> 3.1.0"
-  gem.add_dependency "actionpack", "~> 3.1.0"
+  gem.add_dependency "actionpack", ">= 3.1"
   gem.add_dependency "jquery-rails"
   
   # Development only requirements (unused at this point)
